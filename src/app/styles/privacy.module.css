@@ -1,0 +1,46 @@
+/* styles/privacy.module.css */
+
+.privacy-container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .privacy-main {
+    padding: 5rem;
+    text-align: left;
+  }
+  
+  .privacy-title {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+  }
+  
+  /* Unique class names for headings to avoid conflicts with global styles */
+  .privacy-heading-1 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .privacy-heading-2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .privacy-heading-3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .privacy-heading-4 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .privacy-heading-5 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  

@@ -1,0 +1,26 @@
+/* styles/Terms.module.css */
+
+.termsContainer {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .termsMain {
+    padding: 5rem;
+    text-align: left;
+  }
+  
+  .termsTitle {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  /* Unique class names for headings to avoid conflicts with global styles */
+  .termsHeading {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  

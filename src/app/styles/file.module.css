@@ -1,0 +1,23 @@
+.titel {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+/* styles/file.module.css */
+.pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  .pageNumber {
+    margin: 0 8px;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(0, 0, 0)000;
+  }
+  
+  /* Add a style for the active button */
+  
+  
